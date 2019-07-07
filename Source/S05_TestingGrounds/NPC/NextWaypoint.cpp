@@ -3,7 +3,7 @@
 #include "NextWaypoint.h"
 #include "AIController.h"
 #include "PatrolRoute.h"
-#include "TP_ThirdPerson/TP_ThirdPersonCharacter.h"
+//#include "TP_ThirdPerson/TP_ThirdPersonCharacter.h"
 #include "BehaviorTree/BlackboardComponent.h"
 
 
